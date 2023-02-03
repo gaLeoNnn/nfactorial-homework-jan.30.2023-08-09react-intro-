@@ -1,0 +1,14 @@
+.header {
+padding-bottom: 65px;
+}
+.header__minTitle{
+margin-bottom: 88px ;
+
+}
+.header__title{
+  font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 120px;
+
+}
